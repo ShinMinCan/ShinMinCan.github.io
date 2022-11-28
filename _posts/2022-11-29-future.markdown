@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-11-29 03:04:34 +0900
+categories: jekyll update
+comments: true
+---
+
+### 살면서 먹은 감자튀김들의 특징
+
+1. 롯데리아 감자튀김 [lt][lt]
+  - 시간이 지나면 가장빨리 눅눅해진다.
+  - 굵기랑 길이는 그 어떤 감자튀김보다 완벽하다.
+  - 케찹이 없어도 꽤 괜찮을 맛을 보여준다
+
+2. 맘스터치 감자튀김 [mt][mt]
+  - 굉장히 짜다 소스랑 잘 어울리지가 않다.
+  - 통통해서 찐감자의 맛도 느낄수가있다.
+  - 맘스터치 특유의 치킨맛 햄버거와 잘 어울린다고 생각한다.
+
+3. 맥도날드 감자튀김 [mc][mc]
+  - 굉장히 오래 바삭함을 유지한다.
+  - 소금맛이 굉장히 강하다.
+  - 감자튀김이 옛날에는 좀 텁텁한 식감이 있었다.
+
+4. 버거킹 감자튀김 [bk][bk]
+  - 그저 감자튀김의 GOAT.
+  - 위 감자튀김은 밥반찬으로 먹어도 훌륭한 반찬이 될수있다.
+  - 하지만 우리집 주변에는 버거킹이 없었다. 참 슬픈 일이였다.
+
+[lt]: https://m.lotteria.com
+[mt]: https://momstouch.co.kr
+[mc]: https://www.mcdonalds.co.kr/kor/main.do
+[bk]: https://www.burgerking.co.kr/#/home
