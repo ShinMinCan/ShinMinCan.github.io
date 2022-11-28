@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "각 매장 감자튀김의 특징"
 date:   2022-11-29 03:04:34 +0900
 categories: jekyll update
 comments: true
