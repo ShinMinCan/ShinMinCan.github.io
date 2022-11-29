@@ -8,5 +8,20 @@
 
 2. 중요 명령들
 ```dash
+cd <mydirectory>
+git clone https://github.com/<username>/<username>.github.io.git
 jekyll new . --force
+bundle exec jekyll serve
 ```
+_config.yml 수정후
+
+```dash
+git rm index.html
+git add *
+git commit
+git push origin main
+```
+
+_post, 테마 적용 후
+_layouts/post.html 수정
+PAGE_URL과 PAGE_IDENTIFIER에 Disqus 정보입력
